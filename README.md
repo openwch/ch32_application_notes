@@ -24,3 +24,7 @@ This series of AN (Application Note) manuals focuses on the ***main function app
 | Basic Tutorial on Using SerDes | [AN14000](zh/AN14000/AN14000.md) |
 | Precautions for Using DMA in CH32H417/415/416 Series | [AN08000](zh/AN08000/AN08000.md) |
 | User Guide for CH32H417QEU-R1-1v1 Development Board | [AN90000](zh/AN90000/AN90000.md) |
+| CH32H417 ICache Usage Instructions | [AN03000](zh/AN03000/AN03000.md) |
+| SDIO Mode Usage Instructions | [AN03000](zh/AN03000/AN03000.md) |
+| FMC Driver for SDRAM Basic Tutorial | [AN29000](zh/AN29000/AN29000.md) |
+| ARGB Comparison and Basic Tutorial | [AN35000](zh/AN35000/AN35000.md) |
