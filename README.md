@@ -28,3 +28,27 @@ This series of AN (Application Note) manuals focuses on the ***main function app
 | SDIO Mode Usage Instructions | [AN03000](zh/AN03000/AN03000.md) |
 | FMC Driver for SDRAM Basic Tutorial | [AN29000](zh/AN29000/AN29000.md) |
 | ARGB Comparison and Basic Tutorial | [AN35000](zh/AN35000/AN35000.md) |
+| Coremark Introduction and Score Configuration |[AN03002](zh/AN03002/AN03002.md)|
+| Interrupt Allocation and Wakeup for Dual-Core Chips |[AN03001](zh/AN03001/AN03001.md)|
+| Common Engineering Configurations for LD and Startup Files |[AN91002](zh/AN91002/AN91002.md)|
+| Unique Instructions of Qingke Riscv Kernel |[AN03003](zh/AN03003/AN03003.md)|
+| Usage Instructions for CH32X315 ADC Peripheral |[AN09001](zh/AN09001/AN09001.md)|
+| Practical Development of Lightweight WCHGUI - Taking Control Box as an Example |[AN90001](zh/AN90001/AN90001.md)|
+| LINK Download Process for External FLASH |[AN91003](zh/AN91003/AN91003.md)|
+| Usage of Offline Burner |[AN91001](zh/AN91001/AN91001.md)|
+| How to Use PSRAM |[AN36000](zh/AN36000/AN36000.md)|
+| Running Code on PSRAM |[AN36001](zh/AN36001/AN36001.md)|
+| Use of LINK and MRS Related Techniques |[AN91004](zh/AN91004/AN91004.md)|
+| CH32 USB DFU Firmware Upgrade |[AN97000](zh/AN97000/AN97000.md)|
+| Introduction to Special Functions of the Kernel in CH32H417 |[AN03005](zh/AN03005/AN03005.md)|
+| Comparison of Running Speed of CH32H417 in Different Storage Media |[AN03004](zh/AN03004/AN03004.md)|
+| Comparison of I2C and I3C and Brief Instructions on Using I3C |[AN16001](zh/AN16001/AN16001.md)|
+| Comparison of SAI and I2S and Brief Instructions on Using SAI |[AN25001](zh/AN25001/AN25001.md)|
+| Comparison of SPI and QSPI and Brief Instructions on Using QSPI |[AN26001](zh/AN26001/AN26001.md)|
+| Application Guide for WCH Touch Keypad |[AN10000](zh/AN10000/AN10000.md)|
+| External Power Supply Scheme for VDD12 |[AN01001](zh/AN01001/AN01001.md)|
+| User Guide for CH32 General Series CMP |[AN24001](zh/AN24001/AN24001.md)|
+| User Guide for CH32 General Series OPA Peripheral |[AN24000](zh/AN24000/AN24000.md)|
+| Usage Instructions for Digital Filter of CH32H417 |[AN31001](zh/AN31001/AN31001.md)|
+| Comparison of RTC/Systick/TIM/LPTIM and Their Applications |[AN11000](zh/AN11000/AN11000.md)|
+| Functions and Applications of Reduced Timers |[AN11001](zh/AN11001/AN11001.md)|
