@@ -25,7 +25,7 @@
 | CH32H417/415/416系列DMA使用注意事项 | [AN08000](zh/AN08000/AN08000.md) |
 | CH32H417QEU-R1-1v1开发板使用说明 | [AN90000](zh/AN90000/AN90000.md) |
 | CH32H417 ICache使用说明 | [AN03000](zh/AN03000/AN03000.md) |
-| SDIO从模式使用说明 | [AN03000](zh/AN03000/AN03000.md) |
+| SDIO从模式使用说明 | [AN21000](zh/AN21000/AN21000.md) |
 | FMC驱动SDRAM基础教程 | [AN29000](zh/AN29000/AN29000.md) |
 | ARGB优势对比及基础教程 | [AN35000](zh/AN35000/AN35000.md) |
 |Coremark介绍与跑分配置|[AN03002](zh/AN03002/AN03002.md)|
