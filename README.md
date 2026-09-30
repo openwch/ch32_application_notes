@@ -52,3 +52,11 @@ This series of AN (Application Note) manuals focuses on the ***main function app
 | Usage Instructions for Digital Filter of CH32H417 |[AN31001](zh/AN31001/AN31001.md)|
 | Comparison of RTC/Systick/TIM/LPTIM and Their Applications |[AN11000](zh/AN11000/AN11000.md)|
 | Functions and Applications of Reduced Timers |[AN11001](zh/AN11001/AN11001.md)|
+| User Character Area as DataFlash | [AN90002](zh/AN90002/AN90002.md) |
+| Comparison of Screen Driving Interfaces | [AN93000](zh/AN93000/AN93000.md) |
+| MO30: Introduction and Usage Tips for Power Supply and Motor Applications | [AN94000](zh/AN94000/AN94000.md) |
+| Low Power Consumption Implementation Strategies, Comparison of Flash and RAM Periodic Waking Up under L103 | [AN01002](zh/AN01002/AN01002.md) |
+| Analysis of Chip Reset Reasons | [AN01003](zh/AN01003/AN01003.md) |
+| Use and Comparison of USBPD and Different Chips | [AN37000](zh/AN37000/AN37000.md) |
+| Usage Tips for TIM Related to Motor Applications | [AN11002](zh/AN11002/AN11002.md) |
+| Debugging Method via Command Line | [AN91005](zh/AN91005/AN91005.md) |
