@@ -1,6 +1,6 @@
 # Introduction
 
-[ä¸­æ–‡](README_zh.md) | English
+[ÖÐÎÄ](README_zh.md) | English
 
 This series of AN (Application Note) manuals focuses on the ***main function applications*** and ***implementation in typical*** scenarios of the CH32 series MCUs. It fills the detailed gaps in chip datasheets regarding "how to use functions and how to solve problems", while avoiding the overly macroscopic nature of reference manuals. Directly addressing the high-frequency technical needs that developers encounter in practical development, it provides reusable and verifiable solutions to shorten the project R&D cycle.
 
@@ -54,9 +54,14 @@ This series of AN (Application Note) manuals focuses on the ***main function app
 | Functions and Applications of Reduced Timers |[AN11001](zh/AN11001/AN11001.md)|
 | User Character Area as DataFlash | [AN90002](zh/AN90002/AN90002.md) |
 | Comparison of Screen Driving Interfaces | [AN93000](zh/AN93000/AN93000.md) |
-| MO30: Introduction and Usage Tips for Power Supply and Motor Applications | [AN94000](zh/AN94000/AN94000.md) |
+| M030: Introduction and Usage Tips for Power Supply and Motor Applications | [AN94000](zh/AN94000/AN94000.md) |
 | Low Power Consumption Implementation Strategies, Comparison of Flash and RAM Periodic Waking Up under L103 | [AN01002](zh/AN01002/AN01002.md) |
 | Analysis of Chip Reset Reasons | [AN01003](zh/AN01003/AN01003.md) |
 | Use and Comparison of USBPD and Different Chips | [AN37000](zh/AN37000/AN37000.md) |
 | Usage Tips for TIM Related to Motor Applications | [AN11002](zh/AN11002/AN11002.md) |
 | Debugging Method via Command Line | [AN91005](zh/AN91005/AN91005.md) |
+| EMI-related precautions | [AN94001] (zh/AN94001/AN94001.md)
+| Methods for diagnosing chip issues during debugging | [AN91006] (zh/AN91006/AN91006.md)
+| Introduction to the functions and usage of PIOC | [AN23000] (zh/AN23000/AN23000.md)
+| Transplantation of FatFS file system on MRS | [AN90003] (zh/AN90003/AN90003.md)
+| Transplantation of V467 with LVGL and screen-driving technique using PSRAM | [AN36002] (zh/AN36002/AN36002.md)
